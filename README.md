@@ -22,9 +22,4 @@ Features:
   
 Installation:                                                                                                                             
   1.Create a database 'school'                                                                                                             
-  2.Open \core\init.php & replace info with urs.       
-  
-Live: http://schoolz.likesyou.org                                                                                                         
-LOGIN ACCOUNT                                                                                                                           
-    Email: admin@gmail.com                                                                                                                 
-    Password: root
+  2.Open \core\init.php & replace info with yours.
