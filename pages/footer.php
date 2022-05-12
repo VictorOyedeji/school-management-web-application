@@ -61,6 +61,6 @@ $(document).ready(function(){
 </script>
 </body>
 <footer>
-  <p class="text-center Copyright">Copyright&copy; <a href="https://www.facebook.com/prof.rakib">Rakib Hossain</a></p>
+  <p class="text-center Copyright">Copyright&copy; <a href="#">Adediran Emmanuel</a></p>
 </footer>
 </html>
