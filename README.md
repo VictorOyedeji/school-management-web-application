@@ -1,4 +1,4 @@
-# school-management-web-application
+# school-management-web-app
 School management web application using php,msqli
 
 
