@@ -3,8 +3,8 @@
 $servername = "localhost";
 
 //server username
-$username = "root";
+$username = "school";
 
 //server password
-$db_password = "";
+$db_password = "adediran";
 ?>
