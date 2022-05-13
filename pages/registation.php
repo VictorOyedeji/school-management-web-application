@@ -58,7 +58,7 @@ if(isset($_POST['s_reg']))
     <div class="row">
       <div class="col-md-5">
         <div class="bcon">
-          <img src="images/h_bg.jpg">
+          <img src="images/h_bg.png">
         </div>
       </div>
       <div class="col-md-7">
