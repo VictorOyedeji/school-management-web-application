@@ -127,7 +127,7 @@ if(isset($_POST['s_reg']))
                         <input class="form-control datepicker" id="datepicker" name="b_date" placeholder="30/01/1996" type="text">
                     </div>
                     <div class="col-sm-3">
-                            <select class="form-control col-sm-4" id="city" name="city">
+                            <select class="form-control col-sm-4" id="city" name="city" placeholder="Enter City">
                               <option selected="selected" value="">-City-</option>
                              <!-- Update from ajay database  -->
                             </select>
@@ -145,7 +145,7 @@ if(isset($_POST['s_reg']))
                         <label class="control-label" for="address">Address</label>
                     </div>
                     <div class="col-sm-8 input-column">
-                        <textarea class="form-control" id="address" name="address" placeholder="Your address type hear!"></textarea>
+                        <textarea class="form-control" id="address" name="address" placeholder="Type your address here"></textarea>
                     </div>
                 </div>
 
