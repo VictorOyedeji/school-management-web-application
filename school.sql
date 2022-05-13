@@ -36,11 +36,11 @@ CREATE TABLE `city` (
 --
 
 INSERT INTO `city` (`code`, `name`) VALUES
-(1, 'BAGERHAT'),
-(3, 'BANDARBAN'),
-(4, 'BARGUNA'),
-(6, 'BARISAL'),
-(9, 'BHOLA'),
+(1, 'IBADAN'),
+(3, 'ILESA'),
+(4, 'IGBOHO'),
+(6, 'OSOGBO'),
+(9, 'AGEGE'),
 (10, 'BOGRA'),
 (12, 'BRAHMANBARIA'),
 (13, 'CHANDPUR'),
