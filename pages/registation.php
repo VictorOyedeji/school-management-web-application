@@ -153,7 +153,7 @@ if(isset($_POST['s_reg']))
                 <div class="form-group">
                     <label class="col-sm-4 control-label" for="phone">Phone</label>
                         <div class="col-sm-8 input-column">
-                          <input class="form-control" id="phone" name="phone" placeholder="+8801234567890" type="text">
+                          <input class="form-control" id="phone" name="phone" placeholder="+2348132345678" type="text">
                         </div>
                 </div>
 
